@@ -1,0 +1,142 @@
+/*body,html{
+    margin: 0%;
+}*/
+
+body{
+    background-image: url(img/background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover; 
+    background-position: center;
+    background-attachment: fixed;
+}
+
+input{
+    padding: 15px;
+    border: none;
+    outline: none;
+}
+
+button{
+    padding: 15px;
+    border: none;
+    outline: none;
+    background-color: #F94558;
+    color: azure;
+}
+
+.letra{
+    color: azure;
+}
+
+.cabecalho{
+    display: flex;
+    justify-content: center;    
+  }
+
+.list-itens{
+    background-color: #F94558;
+    padding: 55px; 
+}
+
+.meio{
+    display: flex;
+    justify-content: center;
+    font-size: large;
+    text-align: center;
+  }
+
+.final{
+    text-align: center;
+  }
+
+.email{
+    width: 26%;
+}
+
+.redeSociais .list-logos{
+    display: flex;    
+    margin-top: 5%;
+    list-style: none;   
+  }
+
+.redeSociais .list-logos a {
+    text-decoration: none;  
+    color: white;
+    padding: 1.3rem; 
+  }
+
+  .contato{
+    display: flex;
+    justify-content: end;
+    color: white;
+    list-style: none; 
+    width: 140%;
+  }
+
+  .iconMessenger{
+    display: flex;
+    background-color: #00B2FF;
+    width: 14%;
+  }
+
+  .iconTelefone{
+    display: flex;
+    background-color: white;
+    color: #F94558;
+    width: 14%;
+  }
+
+  .h1Telefone{
+    margin-block-start: 0%;
+    margin-block-end: 0%;
+    margin-left: 9%;
+    font-family: 'Montserrat', sans-serif;
+    font-size: small;
+  }
+
+  .fundo{
+    width: 130%;
+    background-color: #20B038;
+    padding: 8px;
+  }
+
+  .fundoWhats{
+    width: 115%;
+    background-color: #00B2FF;
+    padding: 8px;
+  }
+
+  .fundoTelefone{
+    width: 115%;
+    color: #F94558;
+    background-color: white;
+    padding: 8px;
+  }
+
+  .rodapev7{
+    display: flex;
+    justify-content: end;
+    color: white;
+    list-style: none; 
+  }
+
+  .iconPrincipal{
+    font-size: 150%;
+    margin-top: 3px;
+    margin-right: -10%;
+  }
+
+  .redeSociais{
+    display: flex;
+    justify-content: center;
+  }
+
+  .selecao{
+    position: sticky;
+    left: 88%;
+    margin-top: 2%;
+  }
+
+
+
+  
